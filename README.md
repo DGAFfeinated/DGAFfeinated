@@ -1,1 +1,1 @@
-Hello, I'm Mr. Frog. This is my show. I eat the bug. I ate the bug. This is the end! I love you!
+I'm really bad at programming. Please understand.
